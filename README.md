@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @devbulygin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-devbulygin/devbulygin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm <a href="https://github.com/devbulygin">Pavel</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+I'm a Java Developer.
+
+How to contact me: Just send email to [work@devbulygin.ru](work@devbulygin.ru)
+
+My education: Moscow State University of Railway Engeneering,
+
+## My tech stack
+
+
+
+```clojure
+(def preffered-lang ["clojure" "elixir" "ruby"])
+```
+
+## Github Stats
+![Metrics](/github-metrics.svg)
+
+[![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
