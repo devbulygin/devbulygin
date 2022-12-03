@@ -42,7 +42,7 @@ Hexlet: Java-developer
 
 ---
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Junit-gold?style=for-the-badge&logo=junit&logoColor=white)
+![Junit](https://img.shields.io/badge/Junit-gold?style=for-the-badge&logo=junit&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
