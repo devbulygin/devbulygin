@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/devbulygin">Pavel</a> 
 
-<img src="https://github.com/devbulygin/devbulygin/raw/main/Hi.gif" height="32"/></h1>
+<img src="https://github.com/devbulygin/devbulygin/blob/main/raw/main/Hi.gif?raw=true" height="32"/></h1>
 
 <h3 align="center">Java developer</h3>
 
