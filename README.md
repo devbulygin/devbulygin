@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/devbulygin">Pavel</a> 
 
-<img src="https://github.com/devbulygin/devbulygin/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/devbulygin/devbulygin/raw/main/Hi.gif" height="32"/></h1>
 
 <h3 align="center">Java developer</h3>
 
 
 
-**How to contact me:**   
+## How to contact me:  
 Just send email to: [work@devbulygin.ru](work@devbulygin.ru)  
 Write in telegram: [@devbulygin](https://t.me/devbulygin)
 
@@ -24,7 +24,7 @@ Write in telegram: [@devbulygin](https://t.me/devbulygin)
 </div>
 
 
-## About me
+[//]: # (## About me)
 
 
 
