@@ -4,7 +4,6 @@
 
 <h3 align="center">Java developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 **How to contact me:**   
@@ -62,5 +61,6 @@ Supported data exchange file types are json or yaml. The project implements data
 
 
 ## Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=devbulygin&#41;]&#40;https://github.com/devbulygin&#41;  )
 ![](https://komarev.com/ghpvc/?username=devbulygin)
