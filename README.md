@@ -12,7 +12,7 @@ Write in telegram: [@devbulygin](https://t.me/devbulygin)
 
 <div id="badges">
 
-  <a href = "www.linkedin.com/in/devbulygin">
+  <a href = "https://linkedin.com/in/devbulygin">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
