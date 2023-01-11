@@ -44,6 +44,9 @@ Hexlet: Java-developer
 ![Junit](https://img.shields.io/badge/Junit-gold?style=for-the-badge&logo=junit&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Stream Api](https://img.shields.io/badge/stream%20api-red.svg?style=for-the-badge&logo=stream&)
+![J2EE](https://img.shields.io/badge/Java%20EE-orange?style=for-the-badge&logo=j2ee&logoColor=white)
+
 
 
 ## My project
@@ -57,7 +60,9 @@ The application consists of several mathematical games that run through a common
 Cli application that allows you to find the difference between two configuration files.  
 Supported data exchange file types are json or yaml. The project implements data parsing from these files, as well as applying various options for formatting the result using formatters.
 
+#### 🔎 [Data validator](https://github.com/devbulygin/java-project-78)
 
+The project is a library that allows you to check the correctness of the data. The library supports the following data types: String, Integer, Map and values in a Map.
 
 
 ## Github Stats
