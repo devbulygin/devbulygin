@@ -67,7 +67,7 @@ This is a CLI application designed to find differences between two configuration
 
 This project is a library that enables data correctness validation. The library supports various data types, including String, Integer, Map, and the values within a Map. The project was developed using several technologies, including Gradle for dependency management and building, Git for version control, Checkstyle for maintaining a consistent coding style, JUnit for testing, and GitHub Actions for continuous integration.
 
-#### 🔎 [Page Analyzer](https://github.com/devbulygin/java-project-72)
+#### 📈 [Page Analyzer](https://github.com/devbulygin/java-project-72)
 
 This project is a web application that checks the SEO optimization of a website based on its main parameters, such as the title tag, h1 tag, and meta tag description. The project was developed using several technologies, including Gradle for dependency management and building, Git for version control, Checkstyle for maintaining a consistent coding style, JUnit for testing, and GitHub Actions for continuous integration. The web application was built using Javalin for the backend, Render Deploy for deployment, Ebean for database access, Bootstrap for front-end design, and PostgreSQL for data storage.
 
