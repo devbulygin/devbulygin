@@ -40,12 +40,15 @@ Hexlet: Java-developer
 ## My tech stack
 
 ---
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Junit](https://img.shields.io/badge/Junit-gold?style=for-the-badge&logo=junit&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Stream Api](https://img.shields.io/badge/stream%20api-red.svg?style=for-the-badge&logo=stream&)
-![J2EE](https://img.shields.io/badge/Java%20EE-orange?style=for-the-badge&logo=j2ee&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![iDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
 
 
 
@@ -53,16 +56,20 @@ Hexlet: Java-developer
 
 ----
 #### 🧮 [Brain Games](https://github.com/devbulygin/java-project-lvl1)
-The application consists of several mathematical games that run through a common engine.
+The application is a set of mathematical games that operate on a shared engine. It was developed using the following technologies: Gradle for managing dependencies and building the project, Git for version control, Checkstyle for maintaining a consistent coding style, and Java Core for the main application logic.
+
 
 #### 🟰 [Difference Calculator](https://github.com/devbulygin/java-project-71)
 
-Cli application that allows you to find the difference between two configuration files.  
-Supported data exchange file types are json or yaml. The project implements data parsing from these files, as well as applying various options for formatting the result using formatters.
+This is a CLI application designed to find differences between two configuration files. The project supports data exchange file types such as JSON or YAML. It implements data parsing from these files and offers various options for formatting the results using formatters. The project was developed using several technologies, including Gradle for dependency management and building, Git for version control, Checkstyle for maintaining a consistent coding style, Java Core for the main application logic, JUnit for testing, GitHub Actions for continuous integration, JaCoCo for test coverage analysis, and Picocli for command-line parsing.
 
 #### 🔎 [Data validator](https://github.com/devbulygin/java-project-78)
 
-The project is a library that allows you to check the correctness of the data. The library supports the following data types: String, Integer, Map and values in a Map.
+This project is a library that enables data correctness validation. The library supports various data types, including String, Integer, Map, and the values within a Map. The project was developed using several technologies, including Gradle for dependency management and building, Git for version control, Checkstyle for maintaining a consistent coding style, JUnit for testing, and GitHub Actions for continuous integration.
+
+#### 🔎 [Page Analyzer](https://github.com/devbulygin/java-project-72)
+
+This project is a web application that checks the SEO optimization of a website based on its main parameters, such as the title tag, h1 tag, and meta tag description. The project was developed using several technologies, including Gradle for dependency management and building, Git for version control, Checkstyle for maintaining a consistent coding style, JUnit for testing, and GitHub Actions for continuous integration. The web application was built using Javalin for the backend, Render Deploy for deployment, Ebean for database access, Bootstrap for front-end design, and PostgreSQL for data storage.
 
 
 ## Github Stats
