@@ -47,6 +47,9 @@ Hexlet: Java-developer
 ![Stream Api](https://img.shields.io/badge/stream%20api-red.svg?style=for-the-badge&logo=stream&)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![iDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
 
 
 
@@ -71,6 +74,9 @@ This project is a library that enables data correctness validation. The library 
 
 This project is a web application that checks the SEO optimization of a website based on its main parameters, such as the title tag, h1 tag, and meta tag description. The project was developed using several technologies, including Gradle for dependency management and building, Git for version control, Checkstyle for maintaining a consistent coding style, JUnit for testing, and GitHub Actions for continuous integration. The web application was built using Javalin for the backend, Render Deploy for deployment, Ebean for database access, Bootstrap for front-end design, and PostgreSQL for data storage.
 
+#### 📬 [Task Manager](https://github.com/devbulygin/java-project-73)
+
+This is a task manager application that allows users to create tasks, assign them to an author and an executor, and add labels to tasks. The project uses the following technologies: Spring Boot, Spring Security, Hibernate, Swing, and Rollbar.
 
 ## Github Stats
 
