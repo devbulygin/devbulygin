@@ -20,6 +20,10 @@ Write in telegram: [@devbulygin](https://t.me/devbulygin)
 <a href = "https://ru.hexlet.io/u/devbulygin">
 <img src="https://img.shields.io/badge/hexlet-black?style=for-the-badge" alt="Hexlet"/>
 </a>
+
+<a href = "https://hh.ru/applicant/resumes/view?resume=117c147fff0b978d7a0039ed1f614a58594a48">
+<img src="https://img.shields.io/badge/headhunter-red?style=for-the-badge" alt="Hexlet"/>
+</a>
   
 </div>
 
