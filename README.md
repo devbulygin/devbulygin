@@ -41,6 +41,10 @@ Moscow State University of Railway Engeneering;
 ### Additional education: 
 Hexlet: Java-developer
 
+### Currently job
+
+[The Mascc](https://themascc.com/) 
+
 ## My tech stack
 
 ---
@@ -66,7 +70,7 @@ Hexlet: Java-developer
 ----
 #### 🧮 [Brain Games](https://github.com/devbulygin/java-project-lvl1)
 
-#### 🟰 [Difference Calculator](https://github.com/devbulygin/java-project-71
+#### 🟰 [Difference Calculator](https://github.com/devbulygin/java-project-71)
 
 #### 🔎 [Data validator](https://github.com/devbulygin/java-project-78)
 
