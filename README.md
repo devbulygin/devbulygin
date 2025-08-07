@@ -68,13 +68,6 @@ Hexlet: Java-developer
 ### study
 
 ----
-#### 🧮 [Brain Games](https://github.com/devbulygin/java-project-lvl1)
-
-#### 🟰 [Difference Calculator](https://github.com/devbulygin/java-project-71)
-
-#### 🔎 [Data validator](https://github.com/devbulygin/java-project-78)
-
-#### 📈 [Page Analyzer](https://github.com/devbulygin/java-project-72)
 
 #### 📬 [Task Manager](https://github.com/devbulygin/java-project-73)
 
